@@ -7,3 +7,7 @@ step 4
 step 5    ------ >>>>   added by senior dev
 
 step 6 		------ >>>> JUNIOR adds poition 6...
+
+
+
+step 6  	------- >>>> JUNIOR stil at step 6 add missing ";" and will push NO pulled!!!

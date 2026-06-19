@@ -5,3 +5,5 @@ step 3
 step 4
 
 step 5    ------ >>>>   added by senior dev
+
+step 6 		------ >>>> JUNIOR adds poition 6...

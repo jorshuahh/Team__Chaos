@@ -7,3 +7,5 @@ step 4
 step 5    ------ >>>>   added by senior dev
 
 step 6 		------ >>>> JUNIOR adds poition 6...
+
+step7 		------ >>> SENIOR :: adds step 7

@@ -9,3 +9,5 @@ initial
 -> Stage D		-->> commit stage D. *** This will be the point of destruction ***
 
 -> Stage E		-->> commit stage E.
+
+-> Stage F		-->> commit stage F.

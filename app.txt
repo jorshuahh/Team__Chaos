@@ -7,6 +7,7 @@ initial
 -> Stage C		-->> commit stage C.
 
 -> Stage D		-->> commit stage D. *** This will be the point of destruction ***
+	-> 			-->> Jr dev remebered to ad small fix D1
 
 -> Stage E		-->> commit stage E.
 

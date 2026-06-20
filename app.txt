@@ -3,3 +3,5 @@ initial
 -> Stage A		-->> commit stage A.
 
 -> Stage B		-->> commit stage B.
+
+-> Stage C		-->> commit stage C.
